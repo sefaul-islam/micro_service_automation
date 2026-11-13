@@ -4,19 +4,20 @@ namespace: devconnect
 resources:
   - ../../base
 images:
-  - name: bongodev/devconnect-frontend
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
-  - name: bongodev/devconnect-auth-service
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
-  - name: bongodev/devconnect-user-service
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
-  - name: bongodev/devconnect-post-service
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
-  - name: bongodev/devconnect-like-service
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
-  - name: bongodev/devconnect-comment-service
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
-  - name: bongodev/devconnect-analytics-service
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
-  - name: bongodev/devconnect-worker-service
-    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
+
+  - name: sefaul/devconnect-frontend
+    newTag: latest
+  - name: sefaul/devconnect-auth-service
+    newTag: latest
+  - name: sefaul/devconnect-user-service
+    newTag: latest
+  - name: sefaul/devconnect-post-service
+    newTag: latest
+  - name: sefaul/devconnect-like-service
+    newTag: latest
+  - name: sefaul/devconnect-comment-service
+    newTag: latest
+  - name: sefaul/devconnect-analytics-service
+    newTag: latest
+  - name: sefaul/devconnect-worker-service
+    newTag: latest

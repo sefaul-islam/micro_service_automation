@@ -14,14 +14,14 @@ path = Path("k8s/overlays/prod/kustomization.yaml")
 text = path.read_text()
 
 images = [
-    "bongodev/devconnect-frontend",
-    "bongodev/devconnect-auth-service",
-    "bongodev/devconnect-user-service",
-    "bongodev/devconnect-post-service",
-    "bongodev/devconnect-like-service",
-    "bongodev/devconnect-comment-service",
-    "bongodev/devconnect-analytics-service",
-    "bongodev/devconnect-worker-service",
+    "sefaul/devconnect-frontend",
+    "sefaul/devconnect-auth-service",
+    "sefaul/devconnect-user-service",
+    "sefaul/devconnect-post-service",
+    "sefaul/devconnect-like-service",
+    "sefaul/devconnect-comment-service",
+    "sefaul/devconnect-analytics-service",
+    "sefaul/devconnect-worker-service",
 ]
 
 for image in images:
