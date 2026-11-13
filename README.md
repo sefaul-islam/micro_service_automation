@@ -2,7 +2,7 @@
 
 DevConnect Pro is a 10-service microservices-style social application for DevOps and Cloud Engineering students. The project starts locally with Docker Compose and then moves into a complete CI/CD + Kubernetes + GitOps + Monitoring deployment on an EC2 machine.
 
-DockerHub username configured in this project: **`bongodev`**
+DockerHub username configured in this project: **`sefaul`**
 
 ---
 
