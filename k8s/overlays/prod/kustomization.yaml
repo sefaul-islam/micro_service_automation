@@ -5,18 +5,18 @@ resources:
   - ../../base
 images:
   - name: bongodev/devconnect-frontend
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
   - name: bongodev/devconnect-auth-service
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
   - name: bongodev/devconnect-user-service
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
   - name: bongodev/devconnect-post-service
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
   - name: bongodev/devconnect-like-service
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
   - name: bongodev/devconnect-comment-service
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
   - name: bongodev/devconnect-analytics-service
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
   - name: bongodev/devconnect-worker-service
-    newTag: latest
+    newTag: 0fcf1d66bc9b29c0afcc5a745087cf6441f75765
