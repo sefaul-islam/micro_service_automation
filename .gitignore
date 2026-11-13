@@ -5,9 +5,16 @@ __pycache__
 *.pyc
 .DS_Store
 
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+
 # DevOps outputs
 dependency-check-report/
 frontend/dist/
 .pytest_cache/
 **/__pycache__/
 *.pyc
+terraform.tfvars
