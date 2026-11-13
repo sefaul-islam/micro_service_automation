@@ -6,18 +6,18 @@ resources:
 images:
 
   - name: sefaul/devconnect-frontend
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
   - name: sefaul/devconnect-auth-service
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
   - name: sefaul/devconnect-user-service
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
   - name: sefaul/devconnect-post-service
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
   - name: sefaul/devconnect-like-service
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
   - name: sefaul/devconnect-comment-service
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
   - name: sefaul/devconnect-analytics-service
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
   - name: sefaul/devconnect-worker-service
-    newTag: latest
+    newTag: ef93c20e002c2cc82c198302bc760176d71cbb0e
